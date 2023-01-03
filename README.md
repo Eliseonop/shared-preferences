@@ -18,3 +18,11 @@ samples, guidance on mobile development, and a full API reference.
  ## example of code 
  
  ![image](https://user-images.githubusercontent.com/59000093/210439153-445118ca-971f-4f81-9b84-612b984aa36f.png)
+
+## Integrantes:
+
+> eliseo falcon mestanza
+> sandra arias cajincho
+> javier choquetico condori
+> YOSHELYN ORTIZ PALACO
+> sandro palacios antivo
