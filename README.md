@@ -22,7 +22,11 @@ samples, guidance on mobile development, and a full API reference.
 ## Integrantes:
 
 > eliseo falcon mestanza
+
 > sandra arias cajincho
+
 > javier choquetico condori
+
 > YOSHELYN ORTIZ PALACO
+
 > sandro palacios antivo
